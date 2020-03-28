@@ -1,0 +1,15 @@
+.menu {
+  position: fixed;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+  padding-top: 10px;
+  background-color: rgba(255, 255, 255, 0.301);
+  padding-bottom: 10px;
+}
+.menu-item {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 20px;
+  cursor: pointer;
+}

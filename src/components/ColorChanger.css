@@ -1,0 +1,9 @@
+.colorChanger{
+    position: fixed;
+    top: 0em;
+    left: 0em;
+    padding-top: 9px;
+    padding-left: 10px;
+    cursor: pointer;
+    z-index: 20;
+}

@@ -1,0 +1,7 @@
+img {
+  max-width: 30px;
+}
+.up {
+  margin-top: auto;
+  cursor: pointer;
+}

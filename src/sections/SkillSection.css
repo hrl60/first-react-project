@@ -1,0 +1,15 @@
+.cardwrapper {
+  width: 90%;
+  padding: 15px;
+  align-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  /*background-color:#ebf5ee;*/
+}
+
+.third {
+  background-color: rgb(136, 171, 182);
+}
+h1 {
+  font-size: 4rem;
+}

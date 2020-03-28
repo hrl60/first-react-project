@@ -1,0 +1,104 @@
+{
+  "title": "Hello I'm Hamidreza",
+  "subtitle": ".net developer | DB designer | BI developer | Photogragher",
+  "links": {
+    "github": "https://github.com/hrl60",
+    "instagram": "https://www.instagram.com/hrl60/",
+    "linkedin": "https://www.linkedin.com/in/hamid-reza-1ab72b40/",
+    "facebook": "https://www.facebook.com/hamidreza.lorestani"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I like C#,JavaScript and T-Sql."
+        },
+        {
+          "type": "p",
+          "content": "I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new languages and development techniques are important to me and the success of your organization."
+        },
+        {
+          "type": "p",
+          "content": "I am a dedicated person with a family of four. I enjoy reading, and the knowledge and perspective that my reading gives me has strengthened my teaching skills and presentation abilities. I have been successful at raising a family, and I attribute this success to my ability to plan, schedule, and handle many different tasks at once. This flexibility will help me in the classroom, where there are many different personalities and learning styles."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/asp.png",
+            "title": "Asp.net"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/c.png",
+            "title": "C#.net"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/dev.png",
+            "title": "DevExpress"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/react.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/Sql.png",
+            "title": "Sql Server"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/js.png",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/mysql.png",
+            "title": "Mysql"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/Bi.png",
+            "title": "BI"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/vb.png",
+            "title": "VB.net"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "/images/oop.png",
+            "title": "OOP"
+          }
+        }
+      ]
+    }
+  ]
+}
